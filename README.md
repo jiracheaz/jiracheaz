@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @codeadventurer
+- 👀 I’m interested in software development, AI, and web technologies.
+- 🌱 I’m currently learning Rust and advanced TypeScript.
+- 💞️ I’m looking to collaborate on open source projects focused on environmental sustainability.
+- 📫 How to reach me: email me at codeadventurer@example.com or follow me on Twitter @CodeAdventurer.
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I once coded a small game in a single night during a hackathon!
